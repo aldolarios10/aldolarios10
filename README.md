@@ -26,9 +26,9 @@
 </div>
 
 ### :zap: Actividad reciente
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
-<!--END_SECTION:activity-->
 
 ## Conéctate Conmigo 🌐
 
