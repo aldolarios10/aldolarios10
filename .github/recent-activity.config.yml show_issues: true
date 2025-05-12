@@ -1,0 +1,5 @@
+# .github/recent-activity.config.yml
+show_issues: true
+show_prs: true
+show_repos: true
+show_comments: true
