@@ -111,11 +111,6 @@ There I learned that software development is not only about coding. It is also a
 
 </div>
 
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ## Connect with Me
 
 <div align="center">
